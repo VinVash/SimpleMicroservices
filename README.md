@@ -111,7 +111,7 @@ This implementation satisfies all assignment requirements:
 
 ---
 
-**Course:** Cloud Computing  
+**Course:** Cloud Computing (COMS4153)
 **Student:** Vinamra Vashishth  
 **UNI:** VV2418
 **Implementation Date:** 13 September 2025
